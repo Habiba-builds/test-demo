@@ -1,4 +1,4 @@
-# test-demo
-This is my first Git repository
+# test-demo 
+This is my first Git repository.
 <br>
 Author - Habiba Khan
